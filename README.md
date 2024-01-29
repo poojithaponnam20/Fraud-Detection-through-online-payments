@@ -3,6 +3,10 @@ This GitHub repository hosts a comprehensive dataset specifically designed for t
 
 # Dataset Details:
 
+Dataset is taken from kaggle link given below:
+
+https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data
+
 1. step: A unit of time, where each step represents one hour.
 2. type: The type of online transaction being conducted.
 3. amount: The monetary value of the transaction.
